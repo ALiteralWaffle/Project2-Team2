@@ -1,2 +1,1 @@
-# Project2-Team2
-Project #2 of the Bootcamp
+# proj2-team2
